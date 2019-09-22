@@ -3,6 +3,7 @@ h1{
     color: red;
 }
 #body_wrap{
+    padding: 16px;
     background: #f7f7f7;
     padding: 24px;
 }
