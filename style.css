@@ -1,8 +1,8 @@
 h1{
     font-size: 40px;
     color: red;
-    padding: 16px;
 }
 #body_wrap{
+    padding: 16px;
     background: #f7f7f7;
 }
